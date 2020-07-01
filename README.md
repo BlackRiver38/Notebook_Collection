@@ -1,6 +1,5 @@
 # Notebook_Collection
-My personal notebook collection.
 
-in order to collect some cool examples, update some legacy tutorials and perhaps propose new Jupyter noteboosk to the community I created my first public repository. hope you'll enjoy.
+In order to collect some cool examples, update some legacy tutorials and perhaps propose new Notebooks to the community I created my first public repository. I hope you'll enjoy it and all comments or suggestions are welcomed.
 
 Camilo F.
