@@ -1,0 +1,1 @@
+This cool guy keeps the directory in the repository, it makes easier to follow the notebooks blindly. Thanks coolfile!
