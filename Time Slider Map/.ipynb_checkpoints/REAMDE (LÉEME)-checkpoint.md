@@ -1,3 +1,3 @@
 ## Before you try this notebook:
 
-I use the Anaconda environment so i had to create a new environment to install geopandas. I suggest you do the same since if you have the latest patches you'll need to downgrade som components in your root to install Geopandas wich might create some troubles for you in the future. There are plenty of guides to how install geopandas on windows or Anaconda so I encourage you to follow one of them.
+I use the Anaconda environment so i had to create a new environment to install geopandas. I suggest you do the same since if you have the latest patches you'll need to downgrade some components in your root to install Geopandas wich might create some troubles for you in the future. There are plenty of guides on to how install geopandas on windows or Anaconda so I encourage you to follow one of them.
